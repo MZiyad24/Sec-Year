@@ -1,7 +1,8 @@
 /*
 
 Assignment 1 (full)
-
+Authors      : Abdulrahman Mohsen  - Ziyad Mohammed  - Omar Mohammed
+IDs          :      20221093       -     20221067    -    20220231
 program      : gary scale c++ filter maker
 course       : CS213 : Object Oriented Programming (Programming 2)
 Instructor   : Dr.Mohammad El-Ramly
